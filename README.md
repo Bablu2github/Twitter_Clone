@@ -10,7 +10,7 @@ So there are not user accounts and follow function. You can challenge after you 
 ```
 Check out [LIVE DEMO](https://twitter-nitesh.herokuapp.com/) here!!
 ## Screenshot
-![Screenshot 2021-09-21 at 2 07 59 PM](https://user-images.githubusercontent.com/89508196/134139714-ab874f04-2686-4790-b26d-ce3fbb4f1e99.png)
+!
 
 ## Tech used
 ```
